@@ -1,0 +1,44 @@
+Ejercicios:
+
+/*
+Solicitar al usuario que ingrese 3 números.
+Luego informar:
+La suma de los dos primeros
+La resta de los dos segundos
+El resto entre el primer número y el segundo
+La suma total
+El promedio
+*/
+
+/*
+Solicitar al usario que ingrese dos números.
+Devolver el primer número aumentado en 17
+y el segundo número decrementado en 10
+*/
+
+/*
+Solicitar al usuario que ingrese la base y la altura de un rectángulo e informar:
+El área del rectángulo
+El perímetro del rectángulo.
+*/
+
+/*
+Solicitar al usuario que ingrese el radio de un círculo en informar el área
+*/
+
+/* Se pide que ingrese por consola dos párrafos y muestre por pantalla lo siguiente:
+    1. Los párrafos, ¿son iguales con el operador relacional ==?
+    2. Los párrafos, ¿poseen el mismo contenido? Sin importar si están en mayúsculas o
+    minúsculas.
+    3. Mostrar los párrafos en mayúsculas.
+    4. Mostrar los párrafos en minúsculas.
+    5. Mostrar la primera letra en mayúscula de cada párrafo.
+    6. Unir los párrafos con una coma.
+*/
+
+/*Crear un programa que solicite al usuario que ingrese su primer nombre y su apellido
+luego mostrarlo por consola, por separado, indicando cuál es su apellido primero y 
+luego debajo entre comillas dobles, su nombre
+Nombre y apellido deben ir con la primer letra en mayúscula
+*/
+
