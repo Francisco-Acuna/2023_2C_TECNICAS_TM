@@ -1,0 +1,28 @@
+/*
+Crear un programa que simule la petición de
+una opción según el siguiente menú y muestre
+en pantalla que ha ingresado a la opción
+seleccionada con las opciones siguientes:
+        
+¡Gracias por contactarte con nosotros!
+¿En qué podemos ayudarte?
+A) Documentación
+B) Cotización
+C) Asistencia
+D) Siniestros
+E) Información de Pagos
+F) Otras Consultas
+G) Anulación
+Escribe la letra de la opción seleccionada.
+        
+Debe mostrarse:
+Has elegido Documentación (o la opción que haya elegido)
+*/
+        
+/*
+Solicitar al usuario que ingrese dos números.
+Luego ofrecerle un menú con las siguientes opciones:
+1-suma 2-resta 3-multiplicación 4-división
+Finalmente, mostrar el resultado de la operación
+aritmética elegida.
+*/
